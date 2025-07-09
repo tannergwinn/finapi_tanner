@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'finapitanner'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60F83735054E43549702218BA206864B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BC9D8264D504793BB3B4FA2D6A6027E }}
